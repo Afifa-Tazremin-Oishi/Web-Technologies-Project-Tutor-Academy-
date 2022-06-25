@@ -1,0 +1,64 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.form{
+    border: 3px solid red;
+    border-radius: 15px;
+    background-color: aqua;
+    padding:20px;
+    box-shadow: 5px 5px 10px rgb(110, 93, 93);
+}
+.form-border{
+    border: 1px solid red;
+    padding: 20px;
+    border-radius: 15px;
+}
+.content{
+    width:50%;
+    margin:50px auto;
+}
+.form-heading{
+    border-bottom: 2px solid red;
+    padding: 0 0 20px 0;
+    text-align: center;
+    font-weight: bold;
+    width: 75%;
+    margin: 0 auto 20px;
+}
+input{
+    padding: 2px 20px;
+    border: 2px solid red;
+    forced-color-adjust: rgb(40, 18, 238);
+    border-radius: 5px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.error {
+    color: #FF0000;
+    }
+    .footer-area{
+        background-image: url('images/footer-bg.png');
+        background-size: cover;
+        position: relative;
+        z-index: 1;
+    } 
+    
+    .footer-area li{
+        padding-bottom: 10px;
+    }
+    
+    .social-media .icon{
+        height: 40px;
+        width: 40px;
+        color: #1cc7c1;
+        border-radius: 50%;
+        border: 1px solid #6ACECE;
+        padding: 10px;
+    }
+    .social-media .active-icon{
+        background-color: #6ACECE ;
+        color:white;
+    }
+    
