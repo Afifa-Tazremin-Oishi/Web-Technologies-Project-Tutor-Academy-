@@ -1,7 +1,7 @@
 ### Web-Technologies-Project(Tutor Academy) 
 
 ### Type of user: 1. Admin, 2. Instructor, 3. Student, 4. Private Tutor 
-###*** Feature List: ***
+*** Feature List: ***
 ***In this project the “Admin” has the following features:***
 * Can add Teachers/Students.
 * Can approve Teachers/Students registration information. 
