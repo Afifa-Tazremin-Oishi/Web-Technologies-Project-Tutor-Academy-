@@ -8,7 +8,7 @@
 * Can verify Teachers/Students profiles -- Can block Teachers/Students.
 * Can manipulate all information (edit-delete-view etc.) 
 
-***In this project the “Instructor” has the following features: ***
+***In this project the “Instructor” has the following features:***
 *	If any of the instructor inserted by the admin then they will allow to upload 
   course material, notes and write blog related to different course.
 *	Can edit course information.
@@ -24,7 +24,7 @@
 *	Can publish their time schedule. 
 *	Can edit their information.
 
-***Tools Used for this project:***
+## ***Tools Used for this project:***
 *	Sublime text, vs code
 *	Draw.io
 *	XAMPP
