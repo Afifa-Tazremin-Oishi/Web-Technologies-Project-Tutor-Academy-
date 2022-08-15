@@ -24,7 +24,7 @@
 *	Can publish their time schedule. 
 *	Can edit their information.
 
-## ***Tools Used for this project:***
+### ***Tools Used for this project:***
 *	Sublime text, vs code
 *	Draw.io
 *	XAMPP
