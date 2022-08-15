@@ -31,5 +31,5 @@
 *	Google chrome browser
 
 
-## -------- Project Report:[ Isometric Pharma](https://drive.google.com/file/d/1C_JmiL8Y4LvY262xjX4vpgISR68SIHca/view?usp=sharing)--------
+## -------- Project Report:[ Tutor Academy ](https://drive.google.com/file/d/1C_JmiL8Y4LvY262xjX4vpgISR68SIHca/view?usp=sharing)--------
 
